@@ -1,0 +1,10 @@
+C:\Users\moran\OneDrive\Escritorio\ProyectosC#\Calculadora\bin\Debug\Calculadora.exe.config
+C:\Users\moran\OneDrive\Escritorio\ProyectosC#\Calculadora\bin\Debug\Calculadora.exe
+C:\Users\moran\OneDrive\Escritorio\ProyectosC#\Calculadora\bin\Debug\Calculadora.pdb
+C:\Users\moran\OneDrive\Escritorio\ProyectosC#\Calculadora\obj\Debug\Calculadora.csproj.AssemblyReference.cache
+C:\Users\moran\OneDrive\Escritorio\ProyectosC#\Calculadora\obj\Debug\Calculadora.FrmCalculadora.resources
+C:\Users\moran\OneDrive\Escritorio\ProyectosC#\Calculadora\obj\Debug\Calculadora.Properties.Resources.resources
+C:\Users\moran\OneDrive\Escritorio\ProyectosC#\Calculadora\obj\Debug\Calculadora.csproj.GenerateResource.cache
+C:\Users\moran\OneDrive\Escritorio\ProyectosC#\Calculadora\obj\Debug\Calculadora.csproj.CoreCompileInputs.cache
+C:\Users\moran\OneDrive\Escritorio\ProyectosC#\Calculadora\obj\Debug\Calculadora.exe
+C:\Users\moran\OneDrive\Escritorio\ProyectosC#\Calculadora\obj\Debug\Calculadora.pdb
